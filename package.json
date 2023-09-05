@@ -1,0 +1,26 @@
+{
+  "name": "testrunelectrong",
+  "version": "1.0.0",
+  "description": "asdfasdfasdfasdfff",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wegfawefgawefg/testrunelectrong.git"
+  },
+  "keywords": [
+    "butthole"
+  ],
+  "author": "myself",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wegfawefgawefg/testrunelectrong/issues"
+  },
+  "homepage": "https://github.com/wegfawefgawefg/testrunelectrong#readme",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
